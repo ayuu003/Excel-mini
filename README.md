@@ -13,7 +13,6 @@ This project focuses on analyzing a dataset related to **[brief description of t
 - Present findings using data visualization techniques.
 
 ## 📂 Dataset
-- **Source:** [Mention the data source, e.g., internal data, Kaggle, etc.]
 - **Format:** Excel (.xlsx)
 - **Key Columns:**
   - Province
